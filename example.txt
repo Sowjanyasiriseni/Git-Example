@@ -1,2 +1,4 @@
+This is an git example
+Hii Everyone - add
 This is an git example 
 Hii everyone
